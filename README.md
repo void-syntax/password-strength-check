@@ -17,10 +17,6 @@ To pass the validation and get a **Strong** rating, a password must contain at l
 - **Digits (`0-9`):** At least one numeric digit.
 - **Special Symbol:** At least one underscore (`_`).
 
-## 📸 Demo
-
-![Application Demo](./assets/demo.gif)
-
 ## 🛠️ Tech Stack
 
 - **Language:** Python 3.x
@@ -37,4 +33,4 @@ Make sure you have Python 3.x installed on your system.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/void-syntax/password-strength-checker.git](https://github.com/void-syntax/password-strength-checker.git)
+   git clone https://github.com/void-syntax/password-strength-check.git
